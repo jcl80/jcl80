@@ -10,7 +10,7 @@ I've worked on:
 
 ---
 
-Now I'm deep in threat detection — monitoring and analyzing large-scale public sources.
+Now I'm deep in threat detection , monitoring and analyzing large-scale public sources.
 
 ---
 
