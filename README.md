@@ -1,20 +1,22 @@
 Hello, I'm Jorge Cambra
 
 ---
+Currently working at
+[Sentinel](https://sentinel-team.org).
 
-I've worked on:
+My work involves benchmarking and fine-tuning open
+models, running the data pipelines
+behind large-scale public-source analysis, and making it easier for the rest of the OSINT community to detect and react to risks at scale.
 
-- marketplaces / classifieds / ecommerce platforms
-- internal tooling for sales teams
-- Solana trading bots and on-chain tooling
-
----
-
-Now I'm deep in threat detection , monitoring and analyzing large-scale public sources.
+You can see a part of my work at my [blog.](https://jorgecambra.com/blog)
 
 ---
 
-Interests: anthropology, economics, NBA, statistics, cognition, social dynamics.
+I'm very interested in cognition, both human and machine.
+
+---
+
+Other interests: anthropology, economics, NBA, statistics, social dynamics.
 
 ---
 
