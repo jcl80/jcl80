@@ -4,11 +4,11 @@ Hello, I'm Jorge Cambra
 Currently working at
 [Sentinel](https://sentinel-team.org).
 
-My work involves benchmarking and fine-tuning open
-models, running the data pipelines
-behind large-scale public-source analysis, and making it easier for the rest of the OSINT community to detect and react to risks at scale.
+My work involves benchmarking, distilling and fine-tuning open
+models, and running the data pipelines
+behind large-scale public-source analysis.
 
-You can see a part of my work at my [blog.](https://jorgecambra.com/blog)
+You can see some of my work at my [blog](https://jorgecambra.com/blog).
 
 ---
 
